@@ -10,6 +10,7 @@ const Home = () => {
         <Container>
             <ImgSlider />
             <Viewers/>
+            <Movies/>
         </Container>
     )
 }
